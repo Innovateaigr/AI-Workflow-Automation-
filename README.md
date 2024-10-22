@@ -18,11 +18,12 @@ The AI Workflow Automation Tool streamlines business processes by automating rep
 1. Clone the repository:
    ```bash
    git clone https://github.com/InnovateAiGroup/AI-Workflow-Automation.git
-	2.	Install required dependencies:
 
-pip install -r requirements.txt
+2.	Install required dependencies:
+
+      pip install -r requirements.txt
 
 
-	3.	Run the automation script:
+3.	Run the automation script:
 
-python automate.py
+     python automate.py
